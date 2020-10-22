@@ -1,0 +1,2 @@
+Key Password: Fashionfc@94
+ keytool -genkeypair -v -keystore fashionconcept.keystore -alias fc -keyalg RSA -keysize 2048 -validity 10000

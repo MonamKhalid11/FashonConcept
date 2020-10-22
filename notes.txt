@@ -1,0 +1,17 @@
+adb devices
+cd android && ./gradlew cleanBuildCache
+
+npx react-native run-android
+react-native run-android --deviceId=f2a142c9
+react-native run-ios
+
+https://aboutreact.com/react-native-change-app-icon/
+
+npm install https://github.com/javarahulsharma/react-native-material-textfield.git
+
+cd android && ./gradlew bundleRelease
+
+
+IOS APNS
+
+-> Key: A5KAL9VJA9
